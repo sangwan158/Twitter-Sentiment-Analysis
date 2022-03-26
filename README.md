@@ -3,7 +3,7 @@
 ## About the Project
 An interactive Web Application that helps to visualize the sentiment of tweets and other cool stuff too.  
 
-To run project:
+### To run the project:
 1. open app.py
 2. add consumer key, CONSUMER_SECRET, ACCESS_TOKEN, ACCESS_TOKEN_SECRET which can be requested from http://developer.twitter.com/
 3. run "streamlit run app.py" command (without quotes)
